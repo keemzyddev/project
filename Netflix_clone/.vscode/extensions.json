@@ -1,0 +1,15 @@
+{
+    "recommendations": [
+        "compulim.vscode-express",
+        "amandeepmittal.expressjs",
+        "dbaeumer.vscode-eslint",
+        "tgreen7.vs-code-node-require",
+        "waderyan.nodejs-extension-pack",
+        "leizongmin.node-module-intellisense",
+        "ritwickdey.liveserver",
+        "sibiraj-s.vscode-scss-formatter",
+        "mrmlnc.vscode-scss",
+        "tabnine.tabnine-vscode",
+        "syler.sass-indented"
+    ]
+}
